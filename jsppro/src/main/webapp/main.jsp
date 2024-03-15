@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-index.jsp파일
-index.jsp파일
-index.jsp파일
+main.jsp파일(user1)
 </body>
 </html>
